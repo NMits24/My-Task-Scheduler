@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary App Colors -->
+    <color name="md_theme_primary">#006493</color>
+    <color name="md_theme_onPrimary">#FFFFFF</color>
+    <color name="md_theme_primaryContainer">#C9E6FF</color>
+    <color name="md_theme_onPrimaryContainer">#001E30</color>
+
+    <!-- Secondary App Colors -->
+    <color name="md_theme_secondary">#50606E</color>
+    <color name="md_theme_onSecondary">#FFFFFF</color>
+    <color name="md_theme_secondaryContainer">#D3E5F5</color>
+    <color name="md_theme_onSecondaryContainer">#0C1D29</color>
+
+    <!-- Background and Surface Colors -->
+    <color name="md_theme_background">#F8F9FC</color>
+    <color name="md_theme_onBackground">#191C1E</color>
+    <color name="md_theme_surface">#F8F9FC</color>
+    <color name="md_theme_onSurface">#191C1E</color>
+    <color name="md_theme_surfaceVariant">#DDE3EA</color>
+    <color name="md_theme_onSurfaceVariant">#41474D</color>
+    <color name="md_theme_outline">#72787E</color>
+
+    <!-- Legacy Color for Sign up Link -->
+    <color name="purple_500">#FF6200EE</color>
+
+    <!-- Priority Colors -->
+    <color name="priority_high">#B3261E</color> <!-- Red for High Priority & Delete -->
+    <color name="priority_medium">#FF8C00</color> <!-- Dark Orange for Medium Priority -->
+    <color name="priority_low">#4CAF50</color> <!-- Green for Low Priority -->
+</resources>
